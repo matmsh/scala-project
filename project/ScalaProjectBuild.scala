@@ -8,7 +8,7 @@ object ScalaProjectBuild extends Build {
   val _version = "1.0.0-SNAPSHOT"
   val _scalaVersion = "2.10.4"
 
-  val sparkVersion = "1.2.1"
+  val sparkVersion = "1.3.1"
   val hadoopVersion = "2.3.0-cdh5.1.0"
   val excludeMortbayJetty = ExclusionRule(organization = "org.mortbay.jetty")
   val excludeServletApi   = ExclusionRule(organization = "javax.servlet")
