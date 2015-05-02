@@ -1,7 +1,7 @@
 import sbt._
 import Keys._
-import sbtassembly.Plugin._
-import AssemblyKeys._
+import sbtassembly.AssemblyPlugin._
+import sbtassembly.AssemblyPlugin.autoImport._
 
 object Assembly {
 

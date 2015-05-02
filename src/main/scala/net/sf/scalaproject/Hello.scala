@@ -1,4 +1,4 @@
-package com.adbrain.scalaproject
+package net.sf.scalaproject
 
 /**
  * Created by shing on 28/04/15.
