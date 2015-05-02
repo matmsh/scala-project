@@ -1,2 +1,2 @@
 # scala-project
-A skeleton Scala sbt project
+A skeleton Scala Akka sbt project
